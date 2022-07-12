@@ -55,16 +55,27 @@ Now the main thing, how to install this tool in termux. So you just copy the bel
 
 Commands:
 $ apt update
+
 $ apt upgrade
+
 $ pkg install git
+
 $ pkg install python -y
+
 $ pkg install python2
+
 $ git clone https://github.com/Crevils/InstaReport
+
 $ cd InstaReport
+
 $ ls
+
 $ pip install -r requirements.txt
+
 $ pip install colorama
+
 $ pip install requests
+
 $ python ReportBot.py
 
 Unlock Code:
